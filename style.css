@@ -1,0 +1,23 @@
+
+        body{
+          background-color: yellow;
+        }
+
+
+.green{
+  
+}
+.tile {
+  width: 170px;
+  height: 140px;
+  border: 20px;
+  padding: 20px;
+  margin: 5px;
+  float: left;
+  background-color: grey;
+
+}
+#main-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
